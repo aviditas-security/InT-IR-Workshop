@@ -23,3 +23,5 @@ https://github.com/blueteamvillage/Project-Obsidian-DC30
 DC31 - https://media.blueteamvillage.org/DC31/
 \
 https://github.com/blueteamvillage/Project-Obsidian-DC31
+\
+Insider Threat initial Forensics Analysis: https://github.com/blueteamvillage/Project-Obsidian-DC31/tree/master/Forensics/Analysis/WKST07
